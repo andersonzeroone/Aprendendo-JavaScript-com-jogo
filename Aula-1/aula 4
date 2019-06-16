@@ -1,0 +1,8 @@
+let objCaneta= {
+
+	cor: 'preto',
+	marca: 'big'
+	
+};
+
+document.write(objCaneta.marca);
